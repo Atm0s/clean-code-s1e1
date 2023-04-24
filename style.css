@@ -28,7 +28,7 @@ body {
 
 }
 
-.centered-main-page-element {
+.container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -44,7 +44,7 @@ body {
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-item__form {
   display: flex;
   padding-top: 20px;
 }
